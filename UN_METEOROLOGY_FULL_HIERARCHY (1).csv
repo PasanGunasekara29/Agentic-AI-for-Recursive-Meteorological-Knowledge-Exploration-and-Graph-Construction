@@ -1,0 +1,91 @@
+depth,label,parent_label,uri,parent_uri,relation,source
+0,METEOROLOGY,,http://metadata.un.org/thesaurus/160700,,,UN Thesaurus - Meteorology
+1,ACID FOG,METEOROLOGY,http://metadata.un.org/thesaurus/1000038,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,ACID RAIN,METEOROLOGY,http://metadata.un.org/thesaurus/1000039,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,AERONAUTICAL METEOROLOGY,METEOROLOGY,http://metadata.un.org/thesaurus/1000086,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,AGROMETEOROLOGY,METEOROLOGY,http://metadata.un.org/thesaurus/1000175,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,AIR,METEOROLOGY,http://metadata.un.org/thesaurus/1000185,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,ATMOSPHERE,METEOROLOGY,http://metadata.un.org/thesaurus/1000439,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+2,AURORAS,ATMOSPHERE,http://metadata.un.org/thesaurus/1000451,http://metadata.un.org/thesaurus/1000439,skos:broader,UN Thesaurus - Meteorology
+2,UPPER ATMOSPHERE,ATMOSPHERE,http://metadata.un.org/thesaurus/1006801,http://metadata.un.org/thesaurus/1000439,skos:broader,UN Thesaurus - Meteorology
+3,IONOSPHERE,UPPER ATMOSPHERE,http://metadata.un.org/thesaurus/1003397,http://metadata.un.org/thesaurus/1006801,skos:broader,UN Thesaurus - Meteorology
+3,MAGNETOSPHERE,UPPER ATMOSPHERE,http://metadata.un.org/thesaurus/1003837,http://metadata.un.org/thesaurus/1006801,skos:broader,UN Thesaurus - Meteorology
+3,STRATOSPHERE,UPPER ATMOSPHERE,http://metadata.un.org/thesaurus/1006226,http://metadata.un.org/thesaurus/1006801,skos:broader,UN Thesaurus - Meteorology
+1,ATMOSPHERIC PRESSURE,METEOROLOGY,http://metadata.un.org/thesaurus/1000440,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,ATMOSPHERIC TEMPERATURE,METEOROLOGY,http://metadata.un.org/thesaurus/1000441,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,BIOCLIMATOLOGY,METEOROLOGY,http://metadata.un.org/thesaurus/1000603,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,BIOSPHERE,METEOROLOGY,http://metadata.un.org/thesaurus/1000626,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,CLIMATE,METEOROLOGY,http://metadata.un.org/thesaurus/1001029,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,CLIMATE CHANGE,METEOROLOGY,http://metadata.un.org/thesaurus/1001030,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+2,CARBON FOOTPRINT,CLIMATE CHANGE,http://metadata.un.org/thesaurus/c_492f508f,http://metadata.un.org/thesaurus/1001030,skos:broader,UN Thesaurus - Meteorology
+2,CLIMATE CHANGE ADAPTATION,CLIMATE CHANGE,http://metadata.un.org/thesaurus/c_e88b31d2,http://metadata.un.org/thesaurus/1001030,skos:broader,UN Thesaurus - Meteorology
+2,CLIMATE CHANGE MITIGATION,CLIMATE CHANGE,http://metadata.un.org/thesaurus/c_7690f4b4,http://metadata.un.org/thesaurus/1001030,skos:broader,UN Thesaurus - Meteorology
+1,CLIMATIC ZONES,METEOROLOGY,http://metadata.un.org/thesaurus/1001031,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+2,ARID ZONES,CLIMATIC ZONES,http://metadata.un.org/thesaurus/1000379,http://metadata.un.org/thesaurus/1001031,skos:broader,UN Thesaurus - Meteorology
+2,COLD ZONES,CLIMATIC ZONES,http://metadata.un.org/thesaurus/1001080,http://metadata.un.org/thesaurus/1001031,skos:broader,UN Thesaurus - Meteorology
+2,POLAR REGIONS,CLIMATIC ZONES,http://metadata.un.org/thesaurus/1004961,http://metadata.un.org/thesaurus/1001031,skos:broader,UN Thesaurus - Meteorology
+3,ANTARCTICA,POLAR REGIONS,http://metadata.un.org/thesaurus/1000311,http://metadata.un.org/thesaurus/1004961,skos:broader,UN Thesaurus - Meteorology
+3,ARCTIC REGION,POLAR REGIONS,http://metadata.un.org/thesaurus/1000375,http://metadata.un.org/thesaurus/1004961,skos:broader,UN Thesaurus - Meteorology
+2,TROPICAL AREAS,CLIMATIC ZONES,http://metadata.un.org/thesaurus/1006707,http://metadata.un.org/thesaurus/1001031,skos:broader,UN Thesaurus - Meteorology
+3,HUMID TROPICS,TROPICAL AREAS,http://metadata.un.org/thesaurus/1002997,http://metadata.un.org/thesaurus/1006707,skos:broader,UN Thesaurus - Meteorology
+1,CLIMATOLOGY,METEOROLOGY,http://metadata.un.org/thesaurus/1001032,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+2,BIOCLIMATOLOGY,CLIMATOLOGY,http://metadata.un.org/thesaurus/1000603,http://metadata.un.org/thesaurus/1001032,skos:broader,UN Thesaurus - Meteorology
+2,MICROCLIMATOLOGY,CLIMATOLOGY,http://metadata.un.org/thesaurus/1004085,http://metadata.un.org/thesaurus/1001032,skos:broader,UN Thesaurus - Meteorology
+1,CLOUDS,METEOROLOGY,http://metadata.un.org/thesaurus/1001036,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,COLD ZONES,METEOROLOGY,http://metadata.un.org/thesaurus/1001080,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,CYCLONES,METEOROLOGY,http://metadata.un.org/thesaurus/1001471,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,EL NIÑO CURRENT,METEOROLOGY,http://metadata.un.org/thesaurus/1001932,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,GLOBAL WARMING,METEOROLOGY,http://metadata.un.org/thesaurus/1002692,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,HAIL,METEOROLOGY,http://metadata.un.org/thesaurus/1002807,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,HUMIDITY,METEOROLOGY,http://metadata.un.org/thesaurus/1002998,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,ICE,METEOROLOGY,http://metadata.un.org/thesaurus/1003035,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,IONOSPHERE,METEOROLOGY,http://metadata.un.org/thesaurus/1003397,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,LA NIÑA CURRENT,METEOROLOGY,http://metadata.un.org/thesaurus/1003544,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,MAGNETOSPHERE,METEOROLOGY,http://metadata.un.org/thesaurus/1003837,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,MARINE METEOROLOGY,METEOROLOGY,http://metadata.un.org/thesaurus/1003918,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,METEOROLOGICAL INSTRUMENTS,METEOROLOGY,http://metadata.un.org/thesaurus/1004062,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,METEOROLOGICAL RESEARCH,METEOROLOGY,http://metadata.un.org/thesaurus/1004063,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,METEOROLOGICAL SATELLITES,METEOROLOGY,http://metadata.un.org/thesaurus/1004064,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,METEOROLOGICAL STATIONS,METEOROLOGY,http://metadata.un.org/thesaurus/1004065,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,METEOROLOGY,METEOROLOGY,http://metadata.un.org/thesaurus/1004066,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+2,AERONAUTICAL METEOROLOGY,METEOROLOGY,http://metadata.un.org/thesaurus/1000086,http://metadata.un.org/thesaurus/1004066,skos:broader,UN Thesaurus - Meteorology
+2,AGROMETEOROLOGY,METEOROLOGY,http://metadata.un.org/thesaurus/1000175,http://metadata.un.org/thesaurus/1004066,skos:broader,UN Thesaurus - Meteorology
+2,CLIMATOLOGY,METEOROLOGY,http://metadata.un.org/thesaurus/1001032,http://metadata.un.org/thesaurus/1004066,skos:broader,UN Thesaurus - Meteorology
+3,BIOCLIMATOLOGY,CLIMATOLOGY,http://metadata.un.org/thesaurus/1000603,http://metadata.un.org/thesaurus/1001032,skos:broader,UN Thesaurus - Meteorology
+3,MICROCLIMATOLOGY,CLIMATOLOGY,http://metadata.un.org/thesaurus/1004085,http://metadata.un.org/thesaurus/1001032,skos:broader,UN Thesaurus - Meteorology
+2,HYDROMETEOROLOGY,METEOROLOGY,http://metadata.un.org/thesaurus/1003029,http://metadata.un.org/thesaurus/1004066,skos:broader,UN Thesaurus - Meteorology
+2,MARINE METEOROLOGY,METEOROLOGY,http://metadata.un.org/thesaurus/1003918,http://metadata.un.org/thesaurus/1004066,skos:broader,UN Thesaurus - Meteorology
+2,WEATHER FORECASTING,METEOROLOGY,http://metadata.un.org/thesaurus/1006978,http://metadata.un.org/thesaurus/1004066,skos:broader,UN Thesaurus - Meteorology
+1,METEOROLOGY SERVICES,METEOROLOGY,http://metadata.un.org/thesaurus/1004067,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,MICROCLIMATOLOGY,METEOROLOGY,http://metadata.un.org/thesaurus/1004085,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,OZONE LAYER,METEOROLOGY,http://metadata.un.org/thesaurus/1004686,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,PRECIPITATION,METEOROLOGY,http://metadata.un.org/thesaurus/1005077,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+2,HAIL,PRECIPITATION,http://metadata.un.org/thesaurus/1002807,http://metadata.un.org/thesaurus/1005077,skos:broader,UN Thesaurus - Meteorology
+2,RAIN,PRECIPITATION,http://metadata.un.org/thesaurus/1005367,http://metadata.un.org/thesaurus/1005077,skos:broader,UN Thesaurus - Meteorology
+3,ACID RAIN,RAIN,http://metadata.un.org/thesaurus/1000039,http://metadata.un.org/thesaurus/1005367,skos:broader,UN Thesaurus - Meteorology
+2,SNOW,PRECIPITATION,http://metadata.un.org/thesaurus/1005948,http://metadata.un.org/thesaurus/1005077,skos:broader,UN Thesaurus - Meteorology
+1,PRECIPITATION ENHANCEMENT,METEOROLOGY,http://metadata.un.org/thesaurus/1005078,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,RAIN,METEOROLOGY,http://metadata.un.org/thesaurus/1005367,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+2,ACID RAIN,RAIN,http://metadata.un.org/thesaurus/1000039,http://metadata.un.org/thesaurus/1005367,skos:broader,UN Thesaurus - Meteorology
+1,SNOW,METEOROLOGY,http://metadata.un.org/thesaurus/1005948,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,STORMS,METEOROLOGY,http://metadata.un.org/thesaurus/1006216,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+2,CYCLONES,STORMS,http://metadata.un.org/thesaurus/1001471,http://metadata.un.org/thesaurus/1006216,skos:broader,UN Thesaurus - Meteorology
+2,TORNADOES,STORMS,http://metadata.un.org/thesaurus/1006557,http://metadata.un.org/thesaurus/1006216,skos:broader,UN Thesaurus - Meteorology
+2,TROPICAL STORMS,STORMS,http://metadata.un.org/thesaurus/1006715,http://metadata.un.org/thesaurus/1006216,skos:broader,UN Thesaurus - Meteorology
+3,HURRICANES,TROPICAL STORMS,http://metadata.un.org/thesaurus/1003005,http://metadata.un.org/thesaurus/1006715,skos:broader,UN Thesaurus - Meteorology
+3,TYPHOONS,TROPICAL STORMS,http://metadata.un.org/thesaurus/1006758,http://metadata.un.org/thesaurus/1006715,skos:broader,UN Thesaurus - Meteorology
+1,STRATOSPHERE,METEOROLOGY,http://metadata.un.org/thesaurus/1006226,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,TORNADOES,METEOROLOGY,http://metadata.un.org/thesaurus/1006557,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,TROPICAL STORMS,METEOROLOGY,http://metadata.un.org/thesaurus/1006715,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+2,HURRICANES,TROPICAL STORMS,http://metadata.un.org/thesaurus/1003005,http://metadata.un.org/thesaurus/1006715,skos:broader,UN Thesaurus - Meteorology
+2,TYPHOONS,TROPICAL STORMS,http://metadata.un.org/thesaurus/1006758,http://metadata.un.org/thesaurus/1006715,skos:broader,UN Thesaurus - Meteorology
+1,TROPOSPHERE,METEOROLOGY,http://metadata.un.org/thesaurus/1006717,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,UPPER ATMOSPHERE,METEOROLOGY,http://metadata.un.org/thesaurus/1006801,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+2,IONOSPHERE,UPPER ATMOSPHERE,http://metadata.un.org/thesaurus/1003397,http://metadata.un.org/thesaurus/1006801,skos:broader,UN Thesaurus - Meteorology
+2,MAGNETOSPHERE,UPPER ATMOSPHERE,http://metadata.un.org/thesaurus/1003837,http://metadata.un.org/thesaurus/1006801,skos:broader,UN Thesaurus - Meteorology
+2,STRATOSPHERE,UPPER ATMOSPHERE,http://metadata.un.org/thesaurus/1006226,http://metadata.un.org/thesaurus/1006801,skos:broader,UN Thesaurus - Meteorology
+1,WEATHER,METEOROLOGY,http://metadata.un.org/thesaurus/1006977,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,WEATHER FORECASTING,METEOROLOGY,http://metadata.un.org/thesaurus/1006978,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,WEATHER MAPS,METEOROLOGY,http://metadata.un.org/thesaurus/1006979,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,WEATHER MODIFICATION,METEOROLOGY,http://metadata.un.org/thesaurus/1006980,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
+1,WIND,METEOROLOGY,http://metadata.un.org/thesaurus/1007014,http://metadata.un.org/thesaurus/160700,skos:broader,UN Thesaurus - Meteorology
