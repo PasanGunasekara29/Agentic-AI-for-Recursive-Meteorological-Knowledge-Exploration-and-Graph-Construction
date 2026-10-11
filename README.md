@@ -13,6 +13,24 @@ The project focuses on a question-led exploration cycle:
 
 The intended domain spans atmospheric processes, observations, sensors, forecasts, places, time, and related environmental knowledge.
 
+## Methodology structure of the underlying ontology
+
+The model starts with **Topic** resources and connects each topic to one or more explicit **Assertion** resources. An assertion records the subject, predicate, and object of a meteorological knowledge statement, then links to **Evidence** so that its source can be inspected. Topic names and evidence titles provide readable labels; evidence links point to the corresponding source.
+
+```mermaid
+flowchart LR
+    T["Topic"] -->|"hasAssertion"| A["Assertion"]
+    T -->|"hasName"| TN["Topic name · Text"]
+    A -->|"hasSubject"| S["Subject · Text or URI"]
+    A -->|"hasPredicate"| P["Predicate · Text or URI"]
+    A -->|"hasObject"| O["Object · Text or URI"]
+    A -->|"hasEvidence"| E["Evidence"]
+    E -->|"hasLink"| L["Source link · URI or text"]
+    E -->|"hasTitle"| ET["Evidence title · Text"]
+```
+
+The [UN Meteorology triplets workbook](TOPICS/UN_METEOROLOGY_TRIPLETS.xlsx) contains the topic triplets used to inform this domain structure.
+
 ## Website
 
 The public project overview is published at:
